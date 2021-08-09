@@ -41,7 +41,7 @@ module.exports = appInfo => {
       port: '3306',
       user: 'root',
       password: '0000',
-      database: 'test',
+      database: 'tally',
     },
     // 是否加载到app，默认开启
     app: true,
